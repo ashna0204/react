@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-    <h1>React course {counter}</h1>
+    <h1>React course on counter{counter}</h1>
     <h2>Counter: {counter}</h2>
     <button onClick ={addvalue}>add value {counter}</button>
     <button onClick={removevalue}>remove value {counter}</button>{""}
